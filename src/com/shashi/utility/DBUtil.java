@@ -16,10 +16,10 @@ public class DBUtil {
         try {
             if (conn == null || conn.isClosed()) {
                 // Directly specify the database connection parameters
-                String connectionString = "jdbc:mysql://database-1.cgkf5qiqs0zz.us-east-2.rds.amazonaws.com:3306/shopping-cart";
+                String connectionString = "jdbc:mysql://XXXXX:3306/shopping-cart";
                 String driverName = "com.mysql.cj.jdbc.Driver";
-                String username = "admin";
-                String password = "Perumal_Raj54321";
+                String username = "XXXXX";
+                String password = "XXXXXXXX";
 
                 try {
                     Class.forName(driverName);
