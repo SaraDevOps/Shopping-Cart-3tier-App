@@ -5,7 +5,7 @@
          id="WebApp_ID" 
          version="3.1">
 
-  <display-name>shopping-cart</display-name>
+  <display-name>shopping-cart-0.0.1-SNAPSHOT</display-name>
 
   <!-- Exclude unnecessary JARs from TLD scanning -->
   <context-param>
